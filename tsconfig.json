@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"strict": true,
+		"sourceMap": true,
+		"noImplicitAny": true,
+		"allowJs": true,
+		"strictNullChecks": true,
+		"target":"es2015"
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
