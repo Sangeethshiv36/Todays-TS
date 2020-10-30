@@ -6,9 +6,11 @@
 		"noImplicitAny": true,
 		"allowJs": true,
 		"strictNullChecks": true,
-		"target":"es2015"
+		"target":"es2015",
+		"rootDir": "tsfiles",
+		"outDir": "compiled/lib"
 	},
 	"exclude": [
 		"node_modules"
-	]
+	],
 }
